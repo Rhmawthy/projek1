@@ -28,9 +28,8 @@
     	echo "anda mendapatkan diskon 2%";
     }
     else{
-    	echo "tidak ada diskon";
+    	echo "tidak ada diskonnnn";
     }*/
-
 		
 	
 
