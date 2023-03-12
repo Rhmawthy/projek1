@@ -10,6 +10,12 @@
 	    if ($hasil >= 200){
 			echo"anda mendapatkan diskon 5%";
 		}
+		else if ($hasil >= 100){
+			echo "anda mendapatkan diskon 2%";
+		}
+		else{
+			echo "tidak ada dikon";
+		}
 	}
 
 
